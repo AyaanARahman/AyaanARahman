@@ -2,8 +2,8 @@
 # 💫 About Me:
 🧑‍💻 I'm currently a Software Engineer Intern at Navy Federal Credit Union.<br>
 👨‍🎓 I am a senior studying computer science at the University of Virginia! <br>
-👀 Currently working on a new mobile application
-
+📧 Feel free to email me [here](mailto:mxy9mq@virginia.edu)! <br>
+👀 Currently working on a new mobile application...<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayaanarahman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayaanrahman7972) 
