@@ -2,8 +2,8 @@
 
 # 💫 About Me:
 
-🧑‍💻 I'm currently a Software Engineer Intern at Navy Federal Credit Union.<br>
-👨‍🎓 I am a senior studying computer science at the University of Virginia! <br>
+🧑‍💻 Previous Software Engineer Intern at Navy Federal Credit Union.<br>
+👨‍🎓 Bachelors in Computer Science at the University of Virginia! <br>
 📧 Feel free to email me [here](mailto:mxy9mq@virginia.edu)! <br>
 
 ## 🌐 Socials:
