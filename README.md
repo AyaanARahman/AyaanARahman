@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 
+🧑‍💻 Current Solution Engineer at Appian.<br>
 🧑‍💻 Previous Software Engineer Intern at Navy Federal Credit Union.<br>
 👨‍🎓 Bachelors in Computer Science at the University of Virginia! <br>
 📧 Feel free to email me [here](mailto:mxy9mq@virginia.edu)! <br>
